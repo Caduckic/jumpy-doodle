@@ -16,7 +16,7 @@ private:
 
     Vector2 startTouchPos {0.f,0.f};
     float directionStrength {0.f};
-    float speed {1000.f};
+    float speed {2000.f};
     float gravityVel {0.f};
 
 public:

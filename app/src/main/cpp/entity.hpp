@@ -97,7 +97,7 @@ public:
         dynamicHitBox = hitBox;
     }
 
-    Rectangle getRect() {
+    Rectangle getRect() const {
         return rect;
     }
 
